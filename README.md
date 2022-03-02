@@ -7,7 +7,7 @@ We have a promo object which determines the collection of NFTS you can get exclu
 - Series-A collection of NFTs have access to series-C collection
 - Series-B collection of NFTs have access to series-D collection
 
-![Owner of Series-A collection](User Owns Series-A.png)
+![Owner of Series-A collection](/User%20Owns%20Series-A.png)
 
 
 ![Exclusive access to series-C](https://github.com/Vbhaskar125/NFT--TokenGating/blob/main/User%20has%20exclusive%20access%20to%20series-C.png)
